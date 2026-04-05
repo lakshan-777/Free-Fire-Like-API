@@ -3,6 +3,8 @@
 A simple API for **Send Like to Garena Free Fire Accounts**  
 Built with **Flask** for lightweight, fast, and reliable performance.
 
+# ⚠️IMPORTANT
+Make Your Repo private! Otherwise, your guest ID password may be stolen
 ---
 
 ## 🌟 Features
